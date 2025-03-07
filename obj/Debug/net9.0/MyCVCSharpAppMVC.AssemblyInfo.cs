@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyCVCSharpAppMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fa3fb4948b06452c36905d67e8e96dc23c5d601")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8da6ca8632201d1feaf322d6cee99160b2a9419")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyCVCSharpAppMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyCVCSharpAppMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
