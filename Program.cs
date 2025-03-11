@@ -25,5 +25,10 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}")
     .WithStaticAssets();
 
+app.MapControllerRoute(
+    name: "tax",
+    pattern: "tax/{action=Index}/{id?}",
+    defaults: new { controller = "TaxCalculator" }
+);
 
 app.Run();

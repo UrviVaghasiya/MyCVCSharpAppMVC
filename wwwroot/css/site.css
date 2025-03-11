@@ -21,10 +21,6 @@ html {
   min-height: 100%;
 }
 
-body {
-  margin-bottom: 60px;
-}
-
 .form-floating > .form-control-plaintext::placeholder,
 .form-floating > .form-control::placeholder {
   color: var(--bs-secondary-color);
@@ -41,6 +37,8 @@ body {
   margin: 0;
   padding: 0;
   scroll-behavior: smooth;
+  margin-bottom: 60px;
+  background-color: #f4f4f4;
 }
 
 .navbar {
@@ -98,4 +96,33 @@ footer {
 .sub-heading {
   font-size: 16px;
   font-weight: bold;
+}
+
+/* Tax controller page css */
+.tax-page-container {
+  max-width: 600px !important;
+  margin-top: 50px;
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  margin-left: 0 !important;
+}
+
+.btn-primary {
+  width: 50%;
+  font-size: 18px;
+  margin: 0px auto;
+  align-content: center;
+}
+
+.results {
+  background: #e9ecef;
+  padding: 15px;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+
+.results p {
+  font-size: 16px;
 }
