@@ -57,7 +57,7 @@ body {
 }
 
 .subNavbar {
-  top: 70px !important;
+  top: 65px !important;
 }
 .navbar a {
   color: white;
@@ -78,6 +78,7 @@ body {
 }
 .body-content {
   margin-top: 155px;
+  min-height: 720px;
 }
 
 section {
@@ -85,9 +86,6 @@ section {
 }
 
 footer {
-  position: fixed;
-  bottom: 0;
-  left: 0;
   width: 100%;
   padding: 15px 0;
   background-color: #fff;

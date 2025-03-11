@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NKBr5wuYBZTL6PXyZ8rXLpepdY7XteEh3StjyhqAEWM=",
+  "Hash": "dlMw6NnD73WK3NMfsQgZRgkwlHwy6ye6mnuad6yCNr0=",
   "Source": "MyCVCSharpAppMVC",
   "BasePath": "_content/MyCVCSharpAppMVC",
   "Mode": "Default",
@@ -185,12 +185,12 @@
       "OriginalItemSpec": "D:\\Urvi\\Bincom Learning\\MyCVCSharpAppMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\Urvi\\Bincom Learning\\MyCVCSharpAppMVC\\obj\\Debug\\net9.0\\compressed\\78xwellqes-r5jd2ab75k.gz",
+      "Identity": "D:\\Urvi\\Bincom Learning\\MyCVCSharpAppMVC\\obj\\Debug\\net9.0\\compressed\\78xwellqes-fi2wpy7qyb.gz",
       "SourceId": "MyCVCSharpAppMVC",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Urvi\\Bincom Learning\\MyCVCSharpAppMVC\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MyCVCSharpAppMVC",
-      "RelativePath": "css/site#[.{fingerprint=r5jd2ab75k}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=fi2wpy7qyb}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -199,8 +199,8 @@
       "RelatedAsset": "D:\\Urvi\\Bincom Learning\\MyCVCSharpAppMVC\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "p64f9m5yor",
-      "Integrity": "D6wAYXRSQQzjy9gUUyI0LUOKBAfgXfPKFB42qKRfRD8=",
+      "Fingerprint": "mvrqekpql7",
+      "Integrity": "or1K1cdMQXEI84MdLRUCeWwZ6se3SQFs5JNdXZwEW2E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Urvi\\Bincom Learning\\MyCVCSharpAppMVC\\wwwroot\\css\\site.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "r5jd2ab75k",
-      "Integrity": "P7wVmXTGIUkQVCYsRW22kT3re98fijEMvxdWVpmY2pE=",
+      "Fingerprint": "fi2wpy7qyb",
+      "Integrity": "t0WrRFIDAkZjPK/xL37rfemtx0DKHgXTQLV5ivpoo/8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2729,12 +2729,12 @@
   "Endpoints": [
     {
       "Route": "css/site.css",
-      "AssetFile": "D:\\Urvi\\Bincom Learning\\MyCVCSharpAppMVC\\obj\\Debug\\net9.0\\compressed\\78xwellqes-r5jd2ab75k.gz",
+      "AssetFile": "D:\\Urvi\\Bincom Learning\\MyCVCSharpAppMVC\\obj\\Debug\\net9.0\\compressed\\78xwellqes-fi2wpy7qyb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001543209877"
+          "Quality": "0.001540832049"
         }
       ],
       "ResponseHeaders": [
@@ -2744,15 +2744,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "647"
+          "Value": "648"
         },
         {
           "Name": "ETag",
-          "Value": "\"D6wAYXRSQQzjy9gUUyI0LUOKBAfgXfPKFB42qKRfRD8=\""
+          "Value": "\"or1K1cdMQXEI84MdLRUCeWwZ6se3SQFs5JNdXZwEW2E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 15:55:59 GMT"
+          "Value": "Tue, 11 Mar 2025 10:56:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2772,13 +2772,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"P7wVmXTGIUkQVCYsRW22kT3re98fijEMvxdWVpmY2pE=\""
+          "Value": "W/\"t0WrRFIDAkZjPK/xL37rfemtx0DKHgXTQLV5ivpoo/8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-P7wVmXTGIUkQVCYsRW22kT3re98fijEMvxdWVpmY2pE="
+          "Value": "sha256-t0WrRFIDAkZjPK/xL37rfemtx0DKHgXTQLV5ivpoo/8="
         }
       ]
     },
@@ -2793,7 +2793,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1607"
+          "Value": "1583"
         },
         {
           "Name": "Content-Type",
@@ -2801,11 +2801,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"P7wVmXTGIUkQVCYsRW22kT3re98fijEMvxdWVpmY2pE=\""
+          "Value": "\"t0WrRFIDAkZjPK/xL37rfemtx0DKHgXTQLV5ivpoo/8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 15:55:59 GMT"
+          "Value": "Tue, 11 Mar 2025 10:56:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2815,13 +2815,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-P7wVmXTGIUkQVCYsRW22kT3re98fijEMvxdWVpmY2pE="
+          "Value": "sha256-t0WrRFIDAkZjPK/xL37rfemtx0DKHgXTQLV5ivpoo/8="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "D:\\Urvi\\Bincom Learning\\MyCVCSharpAppMVC\\obj\\Debug\\net9.0\\compressed\\78xwellqes-r5jd2ab75k.gz",
+      "AssetFile": "D:\\Urvi\\Bincom Learning\\MyCVCSharpAppMVC\\obj\\Debug\\net9.0\\compressed\\78xwellqes-fi2wpy7qyb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2830,7 +2830,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "647"
+          "Value": "648"
         },
         {
           "Name": "Content-Type",
@@ -2838,11 +2838,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"D6wAYXRSQQzjy9gUUyI0LUOKBAfgXfPKFB42qKRfRD8=\""
+          "Value": "\"or1K1cdMQXEI84MdLRUCeWwZ6se3SQFs5JNdXZwEW2E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 15:55:59 GMT"
+          "Value": "Tue, 11 Mar 2025 10:56:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2860,18 +2860,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-D6wAYXRSQQzjy9gUUyI0LUOKBAfgXfPKFB42qKRfRD8="
+          "Value": "sha256-or1K1cdMQXEI84MdLRUCeWwZ6se3SQFs5JNdXZwEW2E="
         }
       ]
     },
     {
-      "Route": "css/site.r5jd2ab75k.css",
-      "AssetFile": "D:\\Urvi\\Bincom Learning\\MyCVCSharpAppMVC\\obj\\Debug\\net9.0\\compressed\\78xwellqes-r5jd2ab75k.gz",
+      "Route": "css/site.fi2wpy7qyb.css",
+      "AssetFile": "D:\\Urvi\\Bincom Learning\\MyCVCSharpAppMVC\\obj\\Debug\\net9.0\\compressed\\78xwellqes-fi2wpy7qyb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001543209877"
+          "Quality": "0.001540832049"
         }
       ],
       "ResponseHeaders": [
@@ -2881,15 +2881,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "647"
+          "Value": "648"
         },
         {
           "Name": "ETag",
-          "Value": "\"D6wAYXRSQQzjy9gUUyI0LUOKBAfgXfPKFB42qKRfRD8=\""
+          "Value": "\"or1K1cdMQXEI84MdLRUCeWwZ6se3SQFs5JNdXZwEW2E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 15:55:59 GMT"
+          "Value": "Tue, 11 Mar 2025 10:56:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2909,13 +2909,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"P7wVmXTGIUkQVCYsRW22kT3re98fijEMvxdWVpmY2pE=\""
+          "Value": "W/\"t0WrRFIDAkZjPK/xL37rfemtx0DKHgXTQLV5ivpoo/8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "r5jd2ab75k"
+          "Value": "fi2wpy7qyb"
         },
         {
           "Name": "label",
@@ -2923,12 +2923,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-P7wVmXTGIUkQVCYsRW22kT3re98fijEMvxdWVpmY2pE="
+          "Value": "sha256-t0WrRFIDAkZjPK/xL37rfemtx0DKHgXTQLV5ivpoo/8="
         }
       ]
     },
     {
-      "Route": "css/site.r5jd2ab75k.css",
+      "Route": "css/site.fi2wpy7qyb.css",
       "AssetFile": "D:\\Urvi\\Bincom Learning\\MyCVCSharpAppMVC\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2938,7 +2938,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1607"
+          "Value": "1583"
         },
         {
           "Name": "Content-Type",
@@ -2946,11 +2946,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"P7wVmXTGIUkQVCYsRW22kT3re98fijEMvxdWVpmY2pE=\""
+          "Value": "\"t0WrRFIDAkZjPK/xL37rfemtx0DKHgXTQLV5ivpoo/8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 15:55:59 GMT"
+          "Value": "Tue, 11 Mar 2025 10:56:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2960,7 +2960,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "r5jd2ab75k"
+          "Value": "fi2wpy7qyb"
         },
         {
           "Name": "label",
@@ -2968,13 +2968,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-P7wVmXTGIUkQVCYsRW22kT3re98fijEMvxdWVpmY2pE="
+          "Value": "sha256-t0WrRFIDAkZjPK/xL37rfemtx0DKHgXTQLV5ivpoo/8="
         }
       ]
     },
     {
-      "Route": "css/site.r5jd2ab75k.css.gz",
-      "AssetFile": "D:\\Urvi\\Bincom Learning\\MyCVCSharpAppMVC\\obj\\Debug\\net9.0\\compressed\\78xwellqes-r5jd2ab75k.gz",
+      "Route": "css/site.fi2wpy7qyb.css.gz",
+      "AssetFile": "D:\\Urvi\\Bincom Learning\\MyCVCSharpAppMVC\\obj\\Debug\\net9.0\\compressed\\78xwellqes-fi2wpy7qyb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2983,7 +2983,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "647"
+          "Value": "648"
         },
         {
           "Name": "Content-Type",
@@ -2991,11 +2991,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"D6wAYXRSQQzjy9gUUyI0LUOKBAfgXfPKFB42qKRfRD8=\""
+          "Value": "\"or1K1cdMQXEI84MdLRUCeWwZ6se3SQFs5JNdXZwEW2E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 15:55:59 GMT"
+          "Value": "Tue, 11 Mar 2025 10:56:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3013,7 +3013,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "r5jd2ab75k"
+          "Value": "fi2wpy7qyb"
         },
         {
           "Name": "label",
@@ -3021,7 +3021,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-D6wAYXRSQQzjy9gUUyI0LUOKBAfgXfPKFB42qKRfRD8="
+          "Value": "sha256-or1K1cdMQXEI84MdLRUCeWwZ6se3SQFs5JNdXZwEW2E="
         }
       ]
     },
