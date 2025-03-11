@@ -2,11 +2,11 @@ html {
   font-size: 14px;
 }
 
-@media (min-width: 768px) {
+/* @media (min-width: 768px) {
   html {
-    font-size: 16px;
+    font-size: 14px;
   }
-}
+} */
 
 .btn:focus,
 .btn:active:focus,
@@ -77,9 +77,27 @@ body {
   margin: auto;
 }
 .body-content {
-  margin-top: 100px;
+  margin-top: 155px;
 }
 
 section {
-  padding: 50px 0;
+  padding: 10px 0;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 15px 0;
+  background-color: #fff;
+}
+
+.main-heading {
+  font-size: 20px;
+  font-weight: bold;
+}
+.sub-heading {
+  font-size: 16px;
+  font-weight: bold;
 }

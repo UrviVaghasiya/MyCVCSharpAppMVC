@@ -18,7 +18,6 @@ D:\Urvi\Bincom Learning\MyCVCSharpAppMVC\obj\Debug\net9.0\MyCVCSharpAppMVC.sourc
 D:\Urvi\Bincom Learning\MyCVCSharpAppMVC\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\Urvi\Bincom Learning\MyCVCSharpAppMVC\obj\Debug\net9.0\scopedcss\bundle\MyCVCSharpAppMVC.styles.css
 D:\Urvi\Bincom Learning\MyCVCSharpAppMVC\obj\Debug\net9.0\scopedcss\projectbundle\MyCVCSharpAppMVC.bundle.scp.css
-D:\Urvi\Bincom Learning\MyCVCSharpAppMVC\obj\Debug\net9.0\compressed\78xwellqes-kbr439ned1.gz
 D:\Urvi\Bincom Learning\MyCVCSharpAppMVC\obj\Debug\net9.0\compressed\wph6zz8cxn-61n19gt1b8.gz
 D:\Urvi\Bincom Learning\MyCVCSharpAppMVC\obj\Debug\net9.0\compressed\ufaztom9tx-3r8b2a0bt1.gz
 D:\Urvi\Bincom Learning\MyCVCSharpAppMVC\obj\Debug\net9.0\compressed\nm5ipz39xd-bqjiyaj88i.gz
@@ -96,3 +95,4 @@ D:\Urvi\Bincom Learning\MyCVCSharpAppMVC\obj\Debug\net9.0\refint\MyCVCSharpAppMV
 D:\Urvi\Bincom Learning\MyCVCSharpAppMVC\obj\Debug\net9.0\MyCVCSharpAppMVC.pdb
 D:\Urvi\Bincom Learning\MyCVCSharpAppMVC\obj\Debug\net9.0\MyCVCSharpAppMVC.genruntimeconfig.cache
 D:\Urvi\Bincom Learning\MyCVCSharpAppMVC\obj\Debug\net9.0\ref\MyCVCSharpAppMVC.dll
+D:\Urvi\Bincom Learning\MyCVCSharpAppMVC\obj\Debug\net9.0\compressed\78xwellqes-r5jd2ab75k.gz
