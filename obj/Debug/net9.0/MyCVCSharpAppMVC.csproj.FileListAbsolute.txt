@@ -96,3 +96,9 @@ D:\Urvi\Bincom Learning\MyCVCSharpAppMVC\obj\Debug\net9.0\MyCVCSharpAppMVC.pdb
 D:\Urvi\Bincom Learning\MyCVCSharpAppMVC\obj\Debug\net9.0\MyCVCSharpAppMVC.genruntimeconfig.cache
 D:\Urvi\Bincom Learning\MyCVCSharpAppMVC\obj\Debug\net9.0\ref\MyCVCSharpAppMVC.dll
 D:\Urvi\Bincom Learning\MyCVCSharpAppMVC\obj\Debug\net9.0\compressed\78xwellqes-w5y0qfeqlg.gz
+D:\Urvi\Bincom Learning\MyCVCSharpAppMVC\bin\Debug\net9.0\publish\web.config
+D:\Urvi\Bincom Learning\MyCVCSharpAppMVC\bin\Debug\net9.0\publish\appsettings.Development.json
+D:\Urvi\Bincom Learning\MyCVCSharpAppMVC\bin\Debug\net9.0\publish\appsettings.json
+D:\Urvi\Bincom Learning\MyCVCSharpAppMVC\bin\Debug\net9.0\publish\MyCVCSharpAppMVC.deps.json
+D:\Urvi\Bincom Learning\MyCVCSharpAppMVC\bin\Debug\net9.0\publish\MyCVCSharpAppMVC.runtimeconfig.json
+D:\Urvi\Bincom Learning\MyCVCSharpAppMVC\bin\Debug\net9.0\publish\MyCVCSharpAppMVC.staticwebassets.endpoints.json
